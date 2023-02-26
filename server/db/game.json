@@ -1,0 +1,917 @@
+{
+  "gameId": 1,
+  "winner": "dire",
+  "duration": "35:21",
+  "mapName": "Desert of death",
+  "teams": [
+    {
+      "teamName": "dire",
+      "players": [
+        {
+          "name": "PLayerD",
+          "userId": 1,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 333,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 2,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 3,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 544,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 4,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 5,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 655,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId":6,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 7,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 8,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 9,
+          "kills": 1,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 113,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 10,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 11,
+          "kills": 10,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 781,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 12,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 13,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 221,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 14,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 15,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 16,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 17,
+          "kills": 0,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 110,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 18,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 19,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 20,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 21,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 22,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 23,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 24,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 25,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 26,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 27,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 28,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 29,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 30,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 31,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 32,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 33,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 34,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 35,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 36,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 37,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 38,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 39,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 40,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 41,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 42,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 43,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 44,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 45,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 46,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 47,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 48,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerD",
+          "userId": 49,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerD",
+          "userId": 50,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        }
+      ]
+    },
+    {
+      "teamName": "radiant",
+      "players": [
+        {
+          "name": "PLayerR",
+          "userId": 51,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 52,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 53,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 54,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 55,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 56,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 57,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },{
+          "name": "PLayerR",
+          "userId": 58,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 59,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 60,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 61,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 62,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 63,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 64,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 65,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 66,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 67,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 68,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 69,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 70,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 71,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 72,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 73,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 74,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 75,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 76,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 77,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 78,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 79,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 80,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 81,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 82,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 83,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 84,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 85,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 86,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 87,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 88,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 89,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 90,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 91,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 92,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": false
+        },
+        {
+          "name": "PLayerR",
+          "userId": 93,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 94,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 95,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 96,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 97,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 98,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 99,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        },
+        {
+          "name": "PLayerR",
+          "userId": 100,
+          "kills": 5,
+          "deaths": 3,
+          "assists": 4,
+          "totalDamage": 282,
+          "isAlive": true
+        }
+      ]
+    }
+  ]
+}

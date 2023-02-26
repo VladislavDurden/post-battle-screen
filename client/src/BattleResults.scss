@@ -1,0 +1,14 @@
+.BattleResults {
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  height: 100vh;
+  box-sizing: border-box;
+
+  &__teams-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    max-height: 70vh;
+  }
+}

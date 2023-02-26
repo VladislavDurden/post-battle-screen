@@ -1,0 +1,84 @@
+.PlayerCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  border-radius: 15px;
+  background: #444465;
+  color: white;
+  font-family: 'Special Elite', cursive;
+
+  &:hover {
+    background: #BDBDBD;
+    color: black;
+  }
+
+  &__image {
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    background-image: url("../../../src/assets/default-image.png");
+    background-size: contain;
+  }
+
+  &__info-container {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  &__info-wrapper {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  &__player-kda, &__player-dmg {
+    display: flex;
+    align-items: center;
+  }
+
+  &__player-state {
+    width: 20px;
+    height: 20px;
+    margin-top: -5px;
+  }
+
+  &__name {
+    &--dire {
+      text-shadow:
+              0 0 7px #0fa,
+              0 0 10px #0fa,
+              0 0 21px #0fa,
+              0 0 42px #0fa,
+              0 0 82px #0fa,
+              0 0 92px #0fa,
+              0 0 102px #0fa,
+              0 0 151px #0fa;
+    }
+
+    &--radiant {
+      text-shadow:
+              0 0 7px #f50,
+              0 0 10px #f50,
+              0 0 21px #f50,
+              0 0 42px #f50,
+              0 0 82px #f50,
+              0 0 92px #f50,
+              0 0 102px #f01,
+              0 0 151px #f01;
+    }
+  }
+}
+
+@media (max-width: 1180px) {
+  .PlayerCard {
+    flex-direction: column;
+    gap: 20px;
+
+    &__info-container {
+      flex-direction: column;
+    }
+  }
+}

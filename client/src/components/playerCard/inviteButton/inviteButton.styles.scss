@@ -1,0 +1,27 @@
+.InviteButton {
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  color: white;
+  background-color: indigo;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
+  cursor: pointer;
+  line-height: 15px;
+
+  &:hover {
+    color: black;
+    background-color: mediumpurple;
+  }
+
+  &--disabled {
+    color: darkgrey;
+    background-color: darkslateblue;
+    cursor: not-allowed;
+
+    &:hover {
+      color: darkgrey;
+      background-color: darkslateblue;
+    }
+  }
+}
