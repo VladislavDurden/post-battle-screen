@@ -12,6 +12,13 @@ router.get('/:id', (req, res) => {
 router.put('/:id/invite', (req, res, next) => {
   const userId = req.params.name;
 
+  const inviteData = {
+    id: req.body.id,
+    status: 'pending'
+  };
+
+  // write to DB to user[userId] into field[frinds] data - inviteData
+
   setTimeout(() => {
     res.status(200).send(`Invite has been sent to user ${userId}`);
   }, 1000);

@@ -14,7 +14,7 @@ const InviteButton = (props) => {
   const sendInvite = () => {
     setIsLoading(true);
 
-    axios.put(`${API_BASE_URL}/users/${playerId}/invite`, { friends: {id: 'id', status: 'pending'} })
+    axios.put(`${API_BASE_URL}/users/${playerId}/invite`, { id: 'inviterId'})
       .then((res) => {
         setIsLoading(false);
         setIsFriendAdded(true);
